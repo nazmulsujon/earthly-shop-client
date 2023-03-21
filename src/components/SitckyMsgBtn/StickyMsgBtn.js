@@ -4,7 +4,7 @@ import { FaRegPaperPlane, FaCommentDots } from "react-icons/fa";
 const StickyMsgBtn = () => {
   return (
     <div>
-      <div style={{ position: "fixed", bottom: "20px", right: "20px" }} className="hidden lg:block">
+      <div style={{ position: "fixed", bottom: "20px", right: "20px" }} className="hidden lg:block z-50">
         <a href="https://wa.me/8801776097768?text=Hello%20there!">
           <button className="btn btn-success w-48 h-14 normal-case text-white" style={{ borderRadius: "3rem" }}>
             <FaRegPaperPlane className="mr-3 text-2xl" /> Let's Chat!
