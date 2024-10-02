@@ -1,12 +1,4 @@
-### Project Name
-
-Earthly-Shop
-
-### Visit This Site
-
-Live site        : (https://earthly-simple-shop.web.app)
-
-Server side code : (https://github.com/nazmulsujon/earthly-shop-server) 
+### Earthly-Shop
 
 ### technologies used
 
